@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAPIDemo", "TaskAPIDemo\TaskAPIDemo.csproj", "{DB609E11-BE63-4C4D-A4C1-DB62B8A1985A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskConsoleDemo", "TaskConsoleDemo\TaskConsoleDemo.csproj", "{6521E4E4-1E1C-4C98-B388-25EAC8114B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB609E11-BE63-4C4D-A4C1-DB62B8A1985A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB609E11-BE63-4C4D-A4C1-DB62B8A1985A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB609E11-BE63-4C4D-A4C1-DB62B8A1985A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB609E11-BE63-4C4D-A4C1-DB62B8A1985A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6521E4E4-1E1C-4C98-B388-25EAC8114B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6521E4E4-1E1C-4C98-B388-25EAC8114B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6521E4E4-1E1C-4C98-B388-25EAC8114B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6521E4E4-1E1C-4C98-B388-25EAC8114B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34B236A6-5104-46DD-8F33-6E1233C630C7}
+	EndGlobalSection
+EndGlobal
